@@ -50,7 +50,9 @@ Se ha realizado un desarrollo basado en el enfoque ATDD, donde se han escrito to
 reglas de negocio y criterios de aceptacion.
 Dichas pruebas se lanzan de manera automática.
 
-Elaborado por Andres
+Elaborado por Andres uwu
+
+b gv fc fc ffgfdr lfd7fd c
 
 
 
