@@ -51,7 +51,7 @@ reglas de negocio y criterios de aceptacion.
 Dichas pruebas se lanzan de manera automática.
 
 Elaborado por Andres uwu
-
+elaborado por lino
 b gv fc fc ffgfdr lfd7fd c
 
 
